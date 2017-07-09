@@ -270,7 +270,7 @@ int main(int argc, char** argv)
     topla(char_set, N);
     yaz(char_set, size);
 
-    //Eğer pointerları int derğer olarak depolarsak???
+    //Eğer pointerları int değer olarak depolarsak???
 
     for(i=0;i<N;i++) {
         if(harfler[i]==0)
